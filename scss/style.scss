@@ -1,0 +1,21 @@
+// Adding custom file
+@use 'custom';
+
+// Importing components
+
+@use 'components/animation';
+@use 'components/button';
+@use 'components/mixins';
+@use 'components/typography';
+
+// Importing Sections
+
+@use 'sections/navbar';
+@use 'sections/intro-section';
+@use 'sections/companies';
+@use 'sections/services';
+@use 'sections/testimonial';
+@use 'sections/FAQ';
+@use 'sections/portfolio';
+@use 'sections/get-started';
+@use 'sections/footer';
